@@ -1,3 +1,10 @@
+#开启
+gitbook serve
+
+#生成html文件
+gitbook build
+
+
 OpenResty 最佳实践
 =======
 
